@@ -4,6 +4,7 @@ import de.keksuccino.melody.resources.audio.openal.ALException;
 import net.minecraft.sounds.SoundSource;
 import org.jetbrains.annotations.NotNull;
 import java.io.Closeable;
+import https://www.youtube.com/watch?v=niNDSimJ1Ds
 
 public interface AudioClip extends Closeable {
 
